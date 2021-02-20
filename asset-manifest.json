@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cupangdetectionjs/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cupangdetectionjs/static/js/main.03363a9d.chunk.js",
+    "main.js.map": "/cupangdetectionjs/static/js/main.03363a9d.chunk.js.map",
+    "runtime-main.js": "/cupangdetectionjs/static/js/runtime-main.23991d0f.js",
+    "runtime-main.js.map": "/cupangdetectionjs/static/js/runtime-main.23991d0f.js.map",
+    "static/js/2.5c6918be.chunk.js": "/cupangdetectionjs/static/js/2.5c6918be.chunk.js",
+    "static/js/2.5c6918be.chunk.js.map": "/cupangdetectionjs/static/js/2.5c6918be.chunk.js.map",
+    "static/js/3.dc9c5ced.chunk.js": "/cupangdetectionjs/static/js/3.dc9c5ced.chunk.js",
+    "static/js/3.dc9c5ced.chunk.js.map": "/cupangdetectionjs/static/js/3.dc9c5ced.chunk.js.map",
+    "index.html": "/cupangdetectionjs/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cupangdetectionjs/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5c6918be.chunk.js.LICENSE.txt": "/cupangdetectionjs/static/js/2.5c6918be.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cupangdetectionjs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23991d0f.js",
+    "static/js/2.5c6918be.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.03363a9d.chunk.js"
+  ]
+}
